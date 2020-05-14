@@ -1,0 +1,4 @@
+Thu May 14 16:55:22 EEST 2020 : Timber:  wood - Модрина, weight - 29700.0cm2, volume - 27000.0cm3
+Thu May 14 16:55:26 EEST 2020 : Cilinder:  wood - Модрина, weight - 55292.035cm2, volume - 50265.484cm3
+Thu May 14 16:55:31 EEST 2020 : Waste:  weight - 50.0kg
+Thu May 14 16:55:38 EEST 2020 : Timber:  wood - Ялина, weight - 16200.0cm2, volume - 18000.0cm3
